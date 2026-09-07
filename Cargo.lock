@@ -110,7 +110,7 @@ checksum = "9f7c3e4beb33f85d45ae3e3a1792185706c8e16d043238c593331cc7cd313b50"
 [[package]]
 name = "outlayer"
 version = "0.1.1"
-source = "git+https://github.com/fastnear/near-outlayer?rev=c6a8c0421a574ade162088053b068e18a98ae98e#c6a8c0421a574ade162088053b068e18a98ae98e"
+source = "git+https://github.com/out-layer/outlayer?rev=c6a8c0421a574ade162088053b068e18a98ae98e#c6a8c0421a574ade162088053b068e18a98ae98e"
 dependencies = [
  "serde",
  "serde_json",
